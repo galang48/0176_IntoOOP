@@ -20,6 +20,11 @@ class bangunDatar{
         float hitungLuas() {
             return panjang * Lebar;
         }
+
+        void display() {
+
+        }
+
 };
 int main()
 {
