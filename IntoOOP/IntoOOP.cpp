@@ -16,8 +16,11 @@ class Mahasiswa {
 };
 
 
-class Matakuliah {
-
+class Matakuliah{
+	private:
+		string kodeMk;
+		string namaMk;
+		int sks;
 };
 int main()
 {
